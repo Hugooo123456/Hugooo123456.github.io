@@ -1,8 +1,4 @@
 .contenedor{
-  display:flex;
-  justify-content:center;
-  align-items:center;
-  flex-flow:row wrap;
   border:1px solid black;
-  text-align:center;
+
 }
