@@ -1,1 +1,43 @@
+body{
+display: flex;
+    justify-content: center;
+    align-items: center;
+    margin-top: 40PX;
+}
+.centrar{
+    border: 1px solid black;
+}
+h1{
+    margin: 0;
+    text-align: center;
+        background-color: black;
+        border: 20px solid black;
+        color: lightgray;
 
+}
+h2{
+    color: lightblue;
+}
+.seccion1{
+    border: 1px solid black;
+    background-color: grey;
+    color: white;
+}
+.seccion2{
+        border: 1px solid black;
+    background-color: grey;
+    color: white;
+
+}
+.seccion3{
+        border: 1px solid black;
+    background-color: grey;
+    color: white;
+
+}
+.seccion4{
+        border: 1px solid black;
+    background-color: grey;
+    color: white;
+
+}
